@@ -1,6 +1,7 @@
 # Desafio Node/Nginx Full Cycle
 
-O desafio pede para exibir a mensagem Full Cycle Rocks e logo em seguida uma lista dos nomes cadastros no sistema.\
+O desafio pede para exibir a mensagem Full Cycle Rocks e logo em seguida uma lista dos nomes cadastros no sistema.
+<br>
 
 É necessário que essa renderização aconteça a partir de uma aplicação node com express e que tenha um nginx sendo utilizado como proxy reverso.
 
