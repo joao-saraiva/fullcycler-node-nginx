@@ -12,4 +12,8 @@ RUN apt-get autoremove -yqq --purge wget && rm -rf /var/lib/apt/lists/*
 
 COPY . .
 
+RUN npm install
+
 EXPOSE 3000
+
+CMD [ "NODE", "index.js" ]
