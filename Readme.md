@@ -7,7 +7,7 @@ O desafio pede para exibir a mensagem Full Cycle Rocks e logo em seguida uma lis
 ## Iniciar a aplicação
 
 ```
-docker-compose up -d --build
+docker compose up -d --build
 ```
 
 É necessário rodar o build pois você não tem as imagens protas no seu ambiente local.
