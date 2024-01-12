@@ -11,7 +11,7 @@ O desafio pede para exibir a mensagem Full Cycle Rocks e logo em seguida uma lis
 docker compose up -d --build
 ```
 
-É necessário rodar o build pois você não tem as imagens protas no seu ambiente local.
+É necessário rodar o build pois você não tem as imagens no seu ambiente local.
 
 ## Observações
 
